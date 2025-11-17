@@ -6,7 +6,7 @@ export const educationData = [
         color: "border-purple-500",
     },
     {
-        title: "Diploma , Elecctronics and Communication",
+        title: "Diploma , Electronics and Communication",
         university: "Government Women's Polytechnic",
         period: "2019 - 2022",
         color: "border-green-500",
